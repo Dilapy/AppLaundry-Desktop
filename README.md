@@ -6,16 +6,19 @@ Dikembangkan sebagai project Uji Kompetensi Program Keahlian Rekayasa Perangkat 
 Login Admin
 
 User Admin : admin
+
 Password Admin : 1234
 
 Login Kasir
 
 User Kasir : kasir
+
 Password Kasir : 1234
 
 Login Owner
 
 User Owner : owner
+
 Password Owner : 111
 
 ## Features Aplikasi Laundry
