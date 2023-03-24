@@ -1,11 +1,7 @@
 # Aplikasi Laundry-desktop
-Aplikasi ini dikembangkan dengan menggunakan: Platform NetBeans 8.2 PHP Versi 8.0.12 MySQL 10.4.21. 
+Aplikasi Laundry berbasis desktop yang di bangun menggunakan NetBeans 8.2 PHP Versi 8.0.12 MySQL 10.4.21. Memiliki user login dengan role Admin, Kasir dan Owner.
 
 Dikembangkan sebagai project Uji Kompetensi Program Keahlian Rekayasa Perangkat Lunak SMK Negeri 2 Kuningan Tahun 2023.
-
-# Petunjuk Instalasi
-1.
-2. 
 
 # Petunjuk Penggunaan
 Login Admin
@@ -25,3 +21,4 @@ Password Owner : 111
 - Update
 - Delete
 - Search
+- Read
