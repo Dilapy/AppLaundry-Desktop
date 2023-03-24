@@ -39,3 +39,5 @@ Aplikasi ini dibangun dengan menggunakan :
 - [NetBeans](https://netbeans-ide.informer.com/download/) - Aplikasi NetBeans adalah salah satu aplikasi IDE (Integrated Development Environment) yang digunakan oleh developer software komputer untuk menulis, meng- compile, mencari kesalahan, dan untuk menyebarkan program.
 - [Google Chrome](https://www.google.com/chrome) - Aplikasi Google Chrome adalah aplikasi browser web cepat yang tersedia tanpa biaya.
 - [Java] - Java merupakan bahasa multiplatform yang berorientasi pada objek dan berpusat pada jaringan yang dapat digunakan sebagai platform di dalamnya. Java merupakan bahasa pemrograman yang cepat, aman, dan andal untuk mengodekan segala sesuatu mulai dari aplikasi seluler dan perangkat lunak korporasi hingga aplikasi big data dan teknologi sisi server.
+
+### Instagram : @dilapy._
