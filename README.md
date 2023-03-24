@@ -21,7 +21,7 @@ User Owner : owner
 Password Owner : 111
 
 ## Features Aplikasi Laundry
-- Menambah
-- Mengubah
-- Menghapus
-- Cari
+- Add
+- Update
+- Delete
+- Search
