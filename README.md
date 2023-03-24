@@ -19,3 +19,9 @@ Password Kasir : 1234
 Login Owner
 User Owner : owner
 Password Owner : 111
+
+## Features Aplikasi Laundry
+- Menambah
+- Mengubah
+- Menghapus
+- Cari
